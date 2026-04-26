@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlmodel
-alembic
-pytest
-psycopg2-binary
